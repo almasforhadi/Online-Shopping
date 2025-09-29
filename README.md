@@ -42,4 +42,4 @@ Through this project, you will learn:
 ## ⚙️ How to Run
 
 Clone or download the project:  
-git clone https://github.com/your-username/online-shopping-website.git
+git clone https://github.com/almasforhadi/Online-Shopping.git
