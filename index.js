@@ -21,7 +21,6 @@ const displayProduct = (products) => {
         <div class="card" style="width: 18rem;">
             <img src="${product.image}" class="card-img-top" alt="${product.title}">
             <div class="card-body">
-                <h3>id : ${product.id}</h3>
                 <h5 class="card-title">${product.title}</h5>
                 <p class="card-text">${product.description.slice(0, 100)}</p>
                 <h5 class="card-text">${product.category}</h5>

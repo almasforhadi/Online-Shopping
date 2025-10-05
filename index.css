@@ -7,14 +7,14 @@
 
 body {
   font-family: 'Poppins', sans-serif;
-  background-color: #f8f9fa;
+  background-color: #c1d2e2;
   color: #333;
 }
 
 /* Navbar */
 .navbar {
   background: linear-gradient(90deg, #429af3, #007bff);
-  padding: 1rem;
+  padding: 0.5rem;
 }
 
 .navbar-nav {
@@ -55,7 +55,7 @@ body {
   flex-direction: column;
   gap: 20px;
   align-items: center;
-  background-color: #fff;
+  background-color: #bbdfd7;
   border-radius: 10px;
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
 }
@@ -101,7 +101,7 @@ body {
   flex-wrap: wrap;
   gap: 20px;
   padding: 20px;
-  background-color: #fff;
+  background-color: #bbdfd7;
   border-radius: 10px;
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
   justify-content: center;
@@ -110,9 +110,9 @@ body {
 /* Card */
 .card {
   width: 18rem;
-  background-color: #fff;
+  background-color: #ffffff;
   height: 100%;
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.1);
   transition: all 0.3s ease;
   border: none;
   border-radius: 10px;
